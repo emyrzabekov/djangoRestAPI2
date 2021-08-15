@@ -1,2 +1,4 @@
 django
 pillow
+django-rest-auth
+djangorestframework
